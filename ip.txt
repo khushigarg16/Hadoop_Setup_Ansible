@@ -1,0 +1,5 @@
+[namenode]
+18.205.28.189  ansible_connection=ssh
+
+[datanode]
+18.207.211.181  ansible_connection=ssh
